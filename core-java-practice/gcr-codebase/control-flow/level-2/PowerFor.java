@@ -1,0 +1,1 @@
+public class PowerFor { public static void main(String[] args) { } }

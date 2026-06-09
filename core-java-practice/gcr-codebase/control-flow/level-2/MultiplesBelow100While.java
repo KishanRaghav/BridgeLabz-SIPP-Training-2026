@@ -1,0 +1,1 @@
+public class MultiplesBelow100While { public static void main(String[] args) { } }

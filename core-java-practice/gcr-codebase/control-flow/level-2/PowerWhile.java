@@ -1,0 +1,1 @@
+public class PowerWhile { public static void main(String[] args) { } }

@@ -1,0 +1,1 @@
+public class GreatestFactorWhile { public static void main(String[] args) { } }

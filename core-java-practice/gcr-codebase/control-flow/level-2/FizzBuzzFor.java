@@ -1,0 +1,1 @@
+public class FizzBuzzFor { public static void main(String[] args) { } }

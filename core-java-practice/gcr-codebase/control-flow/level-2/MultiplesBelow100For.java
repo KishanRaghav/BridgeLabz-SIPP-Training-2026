@@ -1,0 +1,1 @@
+public class MultiplesBelow100For { public static void main(String[] args) { } }

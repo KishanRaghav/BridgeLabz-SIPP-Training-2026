@@ -1,0 +1,1 @@
+public class FizzBuzzWhile { public static void main(String[] args) { } }

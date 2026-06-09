@@ -1,0 +1,1 @@
+public class FactorsFor { public static void main(String[] args) { } }

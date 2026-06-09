@@ -1,0 +1,1 @@
+public class GreatestFactorFor { public static void main(String[] args) { } }
