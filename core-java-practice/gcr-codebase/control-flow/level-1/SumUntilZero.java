@@ -1,0 +1,1 @@
+import java.util.*; public class SumUntilZero{ public static void main(String[] args){ Scanner sc=new Scanner(System.in); double sum=0,x=sc.nextDouble(); while(x!=0){ sum+=x; x=sc.nextDouble(); } System.out.println(sum); }}
