@@ -1,1 +1,15 @@
-import java.util.*; public class DivisibleByFive{ public static void main(String[] args){ Scanner sc=new Scanner(System.in); int n=sc.nextInt(); System.out.println("Is the number "+n+" divisible by 5? "+(n%5==0)); }}
+import java.util.*;
+
+public class DivisibleByFive {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int num = sc.nextInt();
+
+        if (num % 5 == 0) {
+            System.out.println("Is the number " + num + " divisible by 5? true");
+        } else {
+            System.out.println("Is the number " + num + " divisible by 5? false");
+        }
+    }
+}

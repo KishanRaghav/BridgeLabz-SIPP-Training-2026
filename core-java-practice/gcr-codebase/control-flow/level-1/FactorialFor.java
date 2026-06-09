@@ -1,1 +1,21 @@
-import java.util.*; public class FactorialFor{ public static void main(String[] args){ Scanner sc=new Scanner(System.in); int n=sc.nextInt(); long f=1; for(int i=1;i<=n;i++) f*=i; System.out.println(f); }}
+import java.util.Scanner;
+
+public class FactorialFor {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int num = sc.nextInt();
+
+        if (num > 0) {
+            long fact = 1;
+
+            for (int i = 1; i <= num; i++) {
+                fact = fact * i;
+            }
+
+            System.out.println("Factorial = " + fact);
+        } else {
+            System.out.println("Not a natural number");
+        }
+    }
+}
