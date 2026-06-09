@@ -1,0 +1,1 @@
+public class LeapYearSingleCondition { public static void main(String[] args) { } }

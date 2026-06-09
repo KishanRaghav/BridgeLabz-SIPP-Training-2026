@@ -1,0 +1,1 @@
+public class AbundantNumber { public static void main(String[] args) { } }
